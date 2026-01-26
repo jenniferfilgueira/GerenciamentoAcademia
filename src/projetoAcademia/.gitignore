@@ -1,0 +1,11 @@
+# Java
+*.class
+bin/
+out/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Eclipse
+.settings/
