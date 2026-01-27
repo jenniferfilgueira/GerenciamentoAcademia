@@ -1,4 +1,4 @@
-# Project Gym Java — Sistema de Academia
+# J PERFORMANCE CLUB — Sistema de Academia
 
 Este repositório contém um **projeto em Java** que simula o funcionamento básico de uma academia, com foco no **gerenciamento de alunos, instrutores, planos de treino e mensalidades**.  
 
