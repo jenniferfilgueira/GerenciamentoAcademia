@@ -33,15 +33,17 @@ project_Gym_Java/
 - IDE: Eclipse / IntelliJ IDEA
 
 
+## Autores
+
+- **Jefte Martins**  
+- **Jennifer Filgueira**
+
+
 ## Como Executar o Projeto
 
 1. Clone o repositório:
 ```bash
 git clone https://github.com/jenniferfilgueira/project_Gym_Java.git
 
-## Autores
-
-- **Jefte Martins**  
-- **Jennifer Filgueira**
 
 
