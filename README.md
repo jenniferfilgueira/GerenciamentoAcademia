@@ -7,13 +7,13 @@ Este repositório contém um **projeto em Java** que simula o funcionamento bás
 
 project_Gym_Java/
 ├── src/
-│ └── projetoAcademia/
-│ ├── Academia.java
-│ ├── Aluno.java
-│ ├── Instrutor.java
-│ ├── Mensalidade.java
-│ ├── PlanoTreino.java
-│ └── Principal.java
+│   └── projetoAcademia/
+│       ├── Academia.java
+│       ├── Aluno.java
+│       ├── Instrutor.java
+│       ├── Mensalidade.java
+│       ├── PlanoTreino.java
+│       └── Principal.java
 ├── .gitignore
 └── README.md
 
